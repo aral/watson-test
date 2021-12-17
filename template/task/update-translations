@@ -3,8 +3,8 @@
 set -eu -o pipefail
 
 pushd build
-ninja com.github.{GITHUB.ORG}.{GITHUB.APP}-pot
-ninja com.github.{GITHUB.ORG}.{GITHUB.APP}-update-po
+ninja com.github.aral.watson_test-pot
+ninja com.github.aral.watson_test-update-po
 popd
 if [[ $# == 0 || $1 != '--no-status' ]]; then
   git status

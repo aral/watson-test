@@ -1,8 +1,8 @@
-# {APP.NAME} web site source
+# Watson Test web site source
 
-[![{APP.NAME} logo](128.svg)](https://{GITHUB.ORG.ORIGINAL}.github.io/{GITHUB.APP.ORIGINAL})
+[![Watson Test logo](128.svg)](https://aral.github.io/watson-test)
 
-## [Visit the site.](https://{GITHUB.ORG.ORIGINAL}.github.io/{GITHUB.APP.ORIGINAL)
+## [Visit the site.](https://aral.github.io/{GITHUB.APP.ORIGINAL)
 
 ## Features:
 

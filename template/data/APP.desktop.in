@@ -1,12 +1,12 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name={APP.NAME}
-GenericName={APP.GENERIC_NAME}
-Comment={APP.COMMENT}
-Categories={APP.CATEGORIES}
-Exec=com.github.{GITHUB.ORG}.{GITHUB.APP}
-Icon=com.github.{GITHUB.ORG}.{GITHUB.APP}
+Name=Watson Test
+GenericName=Test App
+Comment=Test Watson
+Categories=Education
+Exec=com.github.aral.watson_test
+Icon=com.github.aral.watson_test
 Terminal=false
-Keywords={APP.KEYWORDS}
+Keywords=watson;test;app
 X-GNOME-UsesNotifications=true

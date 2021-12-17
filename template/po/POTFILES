@@ -1,4 +1,4 @@
 src/Application.vala
 src/MainWindow.vala
-data/{GITHUB.APP}.desktop.in
-data/{GITHUB.APP}.appdata.xml.in
+data/watson_test.desktop.in
+data/watson_test.appdata.xml.in
